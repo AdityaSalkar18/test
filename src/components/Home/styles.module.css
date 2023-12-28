@@ -1,0 +1,23 @@
+.bgc{
+    background-color:#116466 ;
+}
+
+.fbgc{
+  background-color:#072a2b;
+  width: 100%;
+}
+
+.csize{
+  width: 250px;
+  height: 250px;
+}
+@media (min-width: 768px) {
+   .nbht{
+    height: 100px;
+   }
+ }
+
+
+ 
+
+
